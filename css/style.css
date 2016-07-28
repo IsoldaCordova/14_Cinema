@@ -1,0 +1,179 @@
+*{
+	font-family: helvetica;
+}
+.logo{
+	margin-top: 20px;
+}
+.movie{
+	margin-top: 70px;
+	margin-left: -100px;
+}
+.banner{
+	width: 1080px;
+	height: 530px;
+}
+.buscador{
+	width: 100px;
+	margin-top: 50px;
+}
+.icono{
+	height: 100px;
+	width: 100px;
+	margin-top: 270px;
+}
+.white{
+	color: white;
+	margin-left: 160px;
+	margin-top: 20px;
+}
+h1{
+	font-size: 43px;
+
+}
+hr{
+	width: 250px;
+	margin-left: 160px;
+}
+.coli{
+	font-size: 12px;
+}
+.extra{
+	margin-left: 20px;
+	margin-bottom: 27px;
+}
+.button{
+	width: 69px;
+	border-style: solid;
+	border-color: red;
+	color: red;
+	border-radius: 20px;
+	padding: 5px;
+}
+.pa1{
+	margin-left: 152px;
+	color: white;
+	text-align: justify;
+	font-size: 13px;
+}
+.icon{
+	width: 15px;
+	height: 15px;
+	float: left;
+	margin-right: 8px;
+}
+.textbut{
+	font-size: 12px;
+}
+.button2{
+	width: 100px;
+	color:black;
+	border-style: solid;
+	border-color: orange;
+	background-color: orange;
+	padding: 5px 2px 2px 2px;
+}
+.button3{
+	width: 100px;
+	color:black;
+	border-style: solid;
+	border-color: purple;
+	background-color: purple;
+	padding: 5px 2px 2px 2px;
+}
+.mov{
+	margin-top: 40px;
+	margin-left: 168px;
+}
+.fondo{
+	width: 1095px;
+	height: 200px;
+	margin-top: -20px;
+	background-color: orange;
+	align:left;
+}
+.muchas{
+	width: 120px;
+	height: 160px;
+	margin-left: 20px;
+	margin-top: 26px;
+}
+iframe{
+	width:1080px; 
+	height:315px; 
+	frameborder:0px;
+}
+.tes{
+	color: black;
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.book{
+	font-size: 20px;
+}
+.but{
+	width: 100px;
+	color:black;
+	border-style: 2px solid;
+	border-color: orange;
+	background-color: orange;
+	color: white;
+	padding: 5px 2px 2px 2px;
+}
+.but:hover {
+ background: rgba(0,0,0,0);
+ color: #3a7999;
+ box-shadow: inset 0 0 0 3px #3a7999;
+}
+
+.red{
+	color: red;
+}
+.tes2{
+	margin-top: 20px;
+	margin-left: 90px;
+}
+.space{
+	margin-top: 1px;
+}
+.lil{
+	font-size: 12px;
+}
+.lil2{
+	font-size: 9px;
+}
+.pleca{
+	margin-top: 20px;
+}
+.space2{
+	margin-top: 3px;
+}
+.orange{
+	color:orange;
+	margin-left: 96px;
+	margin-top: 90px;
+	font-size: 15px;
+}
+.last{
+	height: 200px;
+	width: 200px;
+	margin-top: 50px;
+	margin-left: 100px;
+}
+footer{
+	width: 1087px;
+	height: 200px;
+	background-color: lightgray;
+	margin-left: 70px;
+	margin-top: 50px;
+}
+.tex{
+	margin-left: 30px;
+	margin-top: 20px;
+	color: gray;
+}
+.cuatro{
+	font-size: 10px;
+}
+.dos{
+	margin-top: 1px;
+}
